@@ -1,0 +1,1 @@
+This is an example file content that will be sent to the server.
